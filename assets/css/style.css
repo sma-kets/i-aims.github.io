@@ -401,10 +401,6 @@ body {
   color: #cc181e;
 }
 
-.member-icon {
-  color: #666666;
-}
-
 .fa-discord {
   color: #7289da;
 }
@@ -412,6 +408,15 @@ body {
 .fa-github {
   color: #000000;
 }
+
+.member-icon {
+  color: #666666;
+}
+
+.member-links .fa-github {
+  color: #666666;
+}
+
 
 .fa-heart {
   color: var(--secondary);
