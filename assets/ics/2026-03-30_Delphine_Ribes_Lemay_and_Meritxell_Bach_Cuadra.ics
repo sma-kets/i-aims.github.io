@@ -1,0 +1,15 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//YourSite//ICS Event Generator//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:event-20260330-ai-clinical-workflow@yoursite.com
+DTSTAMP:20260314T113253Z
+DTSTART;TZID=Europe/Berlin:20260330T160000
+DTEND;TZID=Europe/Berlin:20260330T170000
+SUMMARY:AI in clinical workflow – technical and stakeholders' perspectives
+DESCRIPTION:Join online:\nhttps://teams.microsoft.com/meet/3291584461660?p=RJIIkWYtbqpxJgAAOp
+LOCATION:Online
+END:VEVENT
+END:VCALENDAR
